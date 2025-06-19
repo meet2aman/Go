@@ -19,12 +19,14 @@ Go is a modern, fast, and statically typed language developed at Google, known f
 Go is trusted by some of the biggest tech companies in the world for its **speed**, **scalability**, and **simplicity**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Google_Logo.svg/512px-Google_Logo.svg.png" width="80" alt="Google" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Netflix_2015_N_logo.svg/512px-Netflix_2015_N_logo.svg.png" width="80" alt="Netflix" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dropbox_logo_2017.svg/512px-Dropbox_logo_2017.svg.png" width="80" alt="Dropbox" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cloudflare_Logo.svg/512px-Cloudflare_Logo.svg.png" width="80" alt="Cloudflare" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heroku_logo.svg/512px-Heroku_logo.svg.png" width="80" alt="Heroku" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Paypal.svg/512px-Paypal.svg.png" width="80" alt="PayPal" />
+  <img src="https://go.dev/images/logos/google.svg" width="80" alt="Google" />
+  <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />
+  <img src="https://go.dev/images/logos/dropbox.png" width="80" alt="Dropbox" />
+  <img src="https://go.dev/images/logos/cloudflare_light.svg" width="80" alt="Cloudflare" />
+  <img src="https://go.dev/images/logos/uber_light.svg" width="80" alt="Uber" />
+  <img src="https://go.dev/images/logos/paypal.svg" width="80" alt="PayPal" />
+  <img src="https://go.dev/images/logos/cockroach.svg" width="80" alt="CockroachDB" />
+  <img src="https://go.dev/images/logos/x.png" width="80" alt="X" />
 </p>
 
 I'm learning Go to become more proficient in building **scalable backend services**, **CLIs**, and **cloud-native applications**.
