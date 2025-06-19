@@ -76,7 +76,7 @@ Go is trusted by some of the biggest tech companies in the world for its **speed
 I'm learning Go to become more proficient in building **scalable backend services**, **CLIs**, and **cloud-native applications**.
 
 ---
-## 🗂️ Folder Structure
+## 🗂️ Folder Structures
 
 | Folder Name   | Topic Description                                 |
 |---------------|---------------------------------------------------|
