@@ -7,7 +7,7 @@ Welcome to my personal Go (Golang) learning repository! This repo contains hands
 
 ## 📚 Why I'm Learning Go
 
-Go is a modern, fast, and statically typed language developed at Google, known for:
+Go is a modern, fast, and statically typed language developed at Goovgle, known for:
 
 - High performance
 - Concurrency support
@@ -20,19 +20,18 @@ Go is trusted by some of the biggest tech companies in the world for its **speed
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; background:#fff;">
   <img src="https://go.dev/images/logos/google.svg" width="80" alt="Google" />
-  <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />
+  <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"
   <img src="https://go.dev/images/logos/dropbox.png" width="80" alt="Dropbox" />
   <img src="https://go.dev/images/logos/cloudflare_light.svg" width="80" alt="Cloudflare" />
   <img src="https://go.dev/images/logos/uber_light.svg" width="80" alt="Uber" />
   <img src="https://go.dev/images/logos/paypal.svg" width="80" alt="PayPal" />
   <img src="https://go.dev/images/logos/cockroach.svg" width="80" alt="CockroachDB" />
-  <img src="https://go.dev/images/logos/x.png" width="80" alt="X" />
+  <img src="https://go.dev/images/logos/x.png" width="80" height="80" alt="X" />
 </p>
 
 I'm learning Go to become more proficient in building **scalable backend services**, **CLIs**, and **cloud-native applications**.
 
 ---
-
 ## 🗂️ Folder Structure
 
 | Folder Name   | Topic Description                                 |
