@@ -5,26 +5,6 @@
 <img style="width:200px; height:200px; background-color:transparent;"; src="https://icon.icepanel.io/Technology/svg/Go.svg" width="80" alt="Google" />
 </p>
 
-<style>
-      div {
-        width:100vw;
-        height:100vh;
-        color: blue;
-        font-size: 16px;
-        gap:10px;
-        display:flex;
-        flex-wrap:wrap;
-        justify-items:between;
-        img{
-        padding:20px;
-        width:90px;
-        height:90px;
-        border-radius:10px;
-        background-color:#F9F6EE       
-        }
-      }
-</style>
-
 Welcome to my personal Go (Golang) learning repository! This repo contains hands-on examples and practice files organized by **specific core topics**. Each folder represents a fundamental concept in the Go programming language, with simple, beginner-friendly code to help solidify understanding.
 
 ---
@@ -43,15 +23,54 @@ Go is trusted by some of the biggest tech companies in the world for its **speed
 
 
 
-<div class="comp">
-  <img src="https://go.dev/images/logos/google.svg" width="80" alt="Google" />
-  <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />
-  <img src="https://go.dev/images/logos/dropbox.png" width="80" alt="Dropbox" />
-  <img src="https://go.dev/images/logos/cloudflare_light.svg" width="80" alt="Cloudflare" />
-  <img src="https://go.dev/images/logos/uber_light.svg" width="80" alt="Uber" />
-  <img src="https://go.dev/images/logos/paypal.svg" width="80" alt="PayPal" />
-  <img src="https://go.dev/images/logos/cockroach.svg" width="80" alt="CockroachDB" />
-  <img src="https://go.dev/images/logos/x.png" width="80" height="80" alt="X" />
+<div style=" width:100vw;
+        height:100vh;
+        color: blue;
+        font-size: 16px;
+        gap:10px;
+        display:flex;
+        flex-wrap:wrap;
+        justify-items:between;" >
+  <img src="https://go.dev/images/logos/google.svg" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="Google" />
+  <img src="https://go.dev/images/logos/netflix.svg" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="Netflix" />
+  <img src="https://go.dev/images/logos/dropbox.png" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="Dropbox" />
+  <img src="https://go.dev/images/logos/cloudflare_light.svg" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="Cloudflare" />
+  <img src="https://go.dev/images/logos/uber_light.svg" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="Uber" />
+  <img src="https://go.dev/images/logos/paypal.svg" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="PayPal" />
+  <img src="https://go.dev/images/logos/cockroach.svg" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE " alt="CockroachDB" />
+  <img src="https://go.dev/images/logos/x.png" style="   padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE;" alt="X" />
 </p>
 
 I'm learning Go to become more proficient in building **scalable backend services**, **CLIs**, and **cloud-native applications**.
