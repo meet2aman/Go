@@ -5,23 +5,6 @@
 <img style="width:200px; height:200px; background-color:transparent;"; src="https://icon.icepanel.io/Technology/svg/Go.svg" width="80" alt="Google" />
 </p>
 
-
-Welcome to my personal Go (Golang) learning repository! This repo contains hands-on examples and practice files organized by **specific core topics**. Each folder represents a fundamental concept in the Go programming language, with simple, beginner-friendly code to help solidify understanding.
-
----
-
-## 📚 Why I'm Learning Go
-
-Go is a modern, fast, and statically typed language developed at Goovgle, known for:
-
-- High performance
-- Concurrency support
-- Clean and simple syntax
-- Great for backend, cloud, and system programming
-
-
-Go is trusted by some of the biggest tech companies in the world for its **speed**, **scalability**, and **simplicity**.
-
 <style>
       div {
         width:100vw;
@@ -41,6 +24,24 @@ Go is trusted by some of the biggest tech companies in the world for its **speed
         }
       }
 </style>
+
+Welcome to my personal Go (Golang) learning repository! This repo contains hands-on examples and practice files organized by **specific core topics**. Each folder represents a fundamental concept in the Go programming language, with simple, beginner-friendly code to help solidify understanding.
+
+---
+
+## 📚 Why I'm Learning Go
+
+Go is a modern, fast, and statically typed language developed at Goovgle, known for:
+
+- High performance
+- Concurrency support
+- Clean and simple syntax
+- Great for backend, cloud, and system programming
+
+
+Go is trusted by some of the biggest tech companies in the world for its **speed**, **scalability**, and **simplicity**.
+
+
 
 <div class="comp">
   <img src="https://go.dev/images/logos/google.svg" width="80" alt="Google" />
