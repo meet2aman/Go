@@ -1,5 +1,10 @@
 
 # 🐹 Learn Go (Golang) – Hands-On Practice
+<p display="flex" width=100vw justify-items="center" align="center">
+<img style="width:200px; height:200px; background-color:transparent;"; src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="80" alt="Google" />
+<img style="width:200px; height:200px; background-color:transparent;"; src="https://icon.icepanel.io/Technology/svg/Go.svg" width="80" alt="Google" />
+</p>
+
 
 Welcome to my personal Go (Golang) learning repository! This repo contains hands-on examples and practice files organized by **specific core topics**. Each folder represents a fundamental concept in the Go programming language, with simple, beginner-friendly code to help solidify understanding.
 
@@ -14,13 +19,32 @@ Go is a modern, fast, and statically typed language developed at Goovgle, known 
 - Clean and simple syntax
 - Great for backend, cloud, and system programming
 
-## 💼 Companies Using Go in Production
 
 Go is trusted by some of the biggest tech companies in the world for its **speed**, **scalability**, and **simplicity**.
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; background:#fff;">
+<style>
+      div {
+        width:100vw;
+        height:100vh;
+        color: blue;
+        font-size: 16px;
+        gap:10px;
+        display:flex;
+        flex-wrap:wrap;
+        justify-items:between;
+        img{
+        padding:20px;
+        width:90px;
+        height:90px;
+        border-radius:10px;
+        background-color:#F9F6EE       
+        }
+      }
+</style>
+
+<div class="comp">
   <img src="https://go.dev/images/logos/google.svg" width="80" alt="Google" />
-  <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"
+  <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />
   <img src="https://go.dev/images/logos/dropbox.png" width="80" alt="Dropbox" />
   <img src="https://go.dev/images/logos/cloudflare_light.svg" width="80" alt="Cloudflare" />
   <img src="https://go.dev/images/logos/uber_light.svg" width="80" alt="Uber" />
