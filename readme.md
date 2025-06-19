@@ -18,7 +18,7 @@ Go is a modern, fast, and statically typed language developed at Google, known f
 
 Go is trusted by some of the biggest tech companies in the world for its **speed**, **scalability**, and **simplicity**.
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://go.dev/images/logos/google.svg" width="80" alt="Google" />
   <img src="https://go.dev/images/logos/netflix.svg" width="80" alt="Netflix" />
   <img src="https://go.dev/images/logos/dropbox.png" width="80" alt="Dropbox" />
